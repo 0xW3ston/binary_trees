@@ -3,7 +3,7 @@
 /**
  * binary_tree_sibling -  fUNCTION that takes a sibling
  *
- * @node: PTR 
+ * @node: PTR
  *
  * Dscription:A perfect binary tree is a tree in which all internal
  * nodes have two childs and all leafs are at the same level.
