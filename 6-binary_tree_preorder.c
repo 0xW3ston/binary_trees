@@ -2,7 +2,7 @@
 /**
  * binary_tree_preorder - traverses a binary tree using preorder trav
  * @tree: PTR
- * @func: func PTR 
+ * @func: func PTR
  */
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
 {
